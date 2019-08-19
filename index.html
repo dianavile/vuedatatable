@@ -1,0 +1,14 @@
+<div id="app">
+    <h2>DataTable</h2>
+    <div v-for="(lens, n) in lens">
+      <p>
+        <span class="lens">{{ lens }}</span>
+        <button @click="removeLens(n)">Remove</button>
+      </p>
+    </div>
+  
+    <p>
+      <input v-model="newLens">
+      <button @click="addLens">Add Lens</button>
+    </p>
+  </div>
