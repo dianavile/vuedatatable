@@ -18,5 +18,6 @@ npm run build
 
 [Tutorial Vue DataTable](https://appdividend.com/2018/06/07/vue-datatable-component-example/)
 
-![title](https://github.com/dianavile/vuedatatable/blob/master/subfolders.../filename.jpg)
+![screenshot Database-Vue](https://github.com/dianavile/vuedatatable/blob/master/screenshot_database.png)
+
 
