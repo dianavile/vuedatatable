@@ -1,59 +1,116 @@
 {
-    "songs": [
+    "optics-SLB": [
     {
-        "id": "1",
-        "name": "Thriller",
-        "album": "Thriller"
+        "id": "SLB-20-40P",
+        "provider": "optosigma",
+        "name": "Plano Convex Lens 20mm Diameter 40mm Focal Length Uncoated",
+        "weight": "0.0500kg",
+        "diameter": "20mm",
+        "focal length": "40mm",
+        "wavelength range of Antireflection Coating": "Uncoated",
+        "edge Thickness te": "2mm",
+        "center Thickness tc": "4.6mm",
+        "back focal length fb": "37mm",
+        "radius of curvature r": "20.76mm",
+        "price: ": "$24.00"
     },
     {
-        "id": "2",
-        "name": "Dangerous",
-        "album": "Dangerous"
+        "id": "S-SLB-20B-50N",
+        "provider": "optosigma",
+        "name": "Reasonable Concave Lens BK7 20mm Diameter -49.7mm Focal Length Uncoated",
+        "weight": "0.0500kg",
+        "diameter": "20mm",
+        "focal length": "−49.7mm",
+        "wavelength range of Antireflection Coating": "Uncoated",
+        "edge Thickness te": "3.9mm",
+        "center Thickness tc": "2mm",
+        "back focal length fb": "-50.3mm",
+        "radius of curvature r": "51.90mm",
+        "price: ": "$23.00"
     },
     {
-        "id": "3",
-        "name": "Stranger In Moscow",
-        "album": "History"
+        "id": "S-SLB-20B-30PIR2",
+        "provider": "optosigma",
+        "name": "Reasonable Biconvex Lens BK7 20mm Diameter 31.0mm Focal Length 750 - 1550nm",
+        "weight": "0.0500kg",
+        "diameter": "20mm",
+        "focal length": "31.0mm",
+        "wavelength range of Antireflection Coating": "750 - 1550nm",
+        "edge Thickness te": "2mm",
+        "center Thickness tc": "5.3mm",
+        "back focal length fb": "29.1mm",
+        "radius of curvature r": "31.14mm",
+        "price: ": "$34.00"
     },
     {
-        "id": "4",
-        "name": "Smooth Criminal",
-        "album": "BAD"
+        "id": "SLB-20-40PIR1",
+        "provider": "optosigma",
+        "name": "Plano Convex Lens 20mm Diameter 40mm Focal Length 633 - 1064nm",
+        "weight": "0.0500kg",
+        "diameter": "20mm",
+        "focal length": "40mm",
+        "wavelength range of Antireflection Coating": "633 - 1064nm",
+        "edge Thickness te": "2mm",
+        "center Thickness tc": "4.6mm",
+        "back focal length fb": "37mm",
+        "radius of curvature r": "20.76mm",
+        "price: ": "$48.50"
     },
     {
-        "id": "5",
-        "name": "BAD",
-        "album": "BAD"
+        "id": "SLB-20-100NM",
+        "provider": "optosigma",
+        "name": "Plano Concave Lens 20mm Diameter −100mm Focal Length 400 - 700nm",
+        "weight": "0.0500kg",
+        "diameter": "20mm",
+        "focal length": "100mm",
+        "wavelength range of Antireflection Coating": "400 - 700nm",
+        "edge Thickness te": "3mm",
+        "center Thickness tc": "2mm",
+        "back focal length fb": "-101.3mm",
+        "radius of curvature r": "51.9mm",
+        "price": "$56.50"
     },
     {
-        "id": "6",
-        "name": "Black or White",
-        "album": "Dangerous"
+        "id": "SLB-20-100NIR2",
+        "provider": "optosigma",
+        "name": "Plano Concave Lens 20mm Diameter −100mm Focal Length 750 - 1550nm",
+        "weight": "0.0500kg",
+        "diameter": "20mm",
+        "focal length": "40mm",
+        "wavelength range of Antireflection Coating": "750 - 1550nm",
+        "edge Thickness te": "3mm",
+        "center Thickness tc": "2mm",
+        "back focal length fb": "-10p1.3mm",
+        "radius of curvature r": "51.9mm",
+        "price: ": "$56.50"
     },
     {
-        "id": "6",
-        "name": "You rock My World",
-        "album": "Invincible"
+        "id": "LA1417",
+        "provider": "thorlabs",
+        "name": "Plano-Convex 20mm Diameter 40mm Focal Length Uncoated",
+        "weight": "0.0500kg",
+        "diameter": "20mm",
+        "focal length": "150.0mm",
+        "wavelength range of Antireflection Coating": "Uncoated",
+        "edge Thickness te": "3.0mm",
+        "center Thickness tc": "7.3mm",
+        "back focal length fb": "144.7mm",
+        "radius of curvature r": "77.30mm",
+        "price: ": "$29.94"
     },
     {
-        "id": "7",
-        "name": "Hold My Hand",
-        "album": "Michael"
-    },
-    {
-        "id": "8",
-        "name": "Rock With You",
-        "album": "Off The Wall"
-    },
-    {
-        "id": "9",
-        "name": "Billy Jean",
-        "album": "Thriller"
-    },
-    {
-        "id": "10",
-        "name": "They don't really care about us",
-        "album": "History"
+        "id": "LB1723",
+        "provider": "thorlabs",
+        "name": "Plano-Convex 20mm Diameter 40mm Focal Length Uncoated",
+        "weight": "0.0500kg",
+        "diameter": "20mm",
+        "focal length": "60.0mm",
+        "wavelength range of Antireflection Coating": "Uncoated",
+        "edge Thickness te": "3.0mm",
+        "center Thickness tc": "14.4mm",
+        "back focal length fb": "37mm",
+        "radius of curvature r": "55mm",
+        "price: ": "$36.77"
     }
   ]
 }
