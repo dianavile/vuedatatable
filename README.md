@@ -12,5 +12,9 @@ npm run serve
 ```
 npm run build
 ```
+  App running at:
+  - Local:   http://localhost:8080/
+  - Network: http://192.168.1.46:8080/
+
 [Tutorial Vue DataTable](https://appdividend.com/2018/06/07/vue-datatable-component-example/)
 
